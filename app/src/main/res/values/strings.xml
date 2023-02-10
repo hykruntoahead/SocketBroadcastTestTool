@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocketBroadcastTestTool</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="send_message_content">send message content</string>
+    <string name="message_logging">Message logging:</string>
+    <string name="open_client">打开客户端</string>
+    <string name="open_server">打开服务端</string>
+    <string name="enable_server_lock">允许服务端mulilock</string>
+    <string name="log_show">日志显示</string>
+
+</resources>
